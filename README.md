@@ -34,7 +34,7 @@
   <tr>
     <td>ORM</td>
     <td>
-      <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=Spring&logoColor=white" />
+      <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=Black" />
       <img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" />
     </td>
   </tr>
