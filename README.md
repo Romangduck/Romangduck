@@ -36,7 +36,7 @@
     <td>
       <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=Black" />
       <img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" />
-      <img alt="cds" src="https://img.shields.io/badge/CDS-FFCA28?style=flat&logo=data:image/png;base64"/>
+      <img alt="cds" src="https://img.shields.io/badge/CDS-FFCA28?style=flat&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]"/>
     </td>
   </tr>
   <tr>
