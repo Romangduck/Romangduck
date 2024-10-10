@@ -36,6 +36,7 @@
     <td>
       <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-6DB33F?style=flat&logo=MyBatis&logoColor=Black" />
       <img alt="spring data jpa" src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=Spring&logoColor=white" />
+      <img alt="cds" src="https://img.shields.io/badge/CDS-FFCA28?style=flat&logo=data:image/png;base64"/>
     </td>
   </tr>
   <tr>
@@ -59,7 +60,7 @@
     <td>
       <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
       <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white" />
-      <img alt="Sap Ui5" src="https://img.shields.io/badge/SAP%20UI5-5D9CEC?style=flat&logo=data:image/png;base64,[BASE64_ENCODED_IMAGE]"/>
+      <img alt="Sap Ui5" src="https://img.shields.io/badge/SAP%20UI5-5D9CEC?style=flat&logo=SAP&logoColor=white"/>
     </td>
   </tr>
   <tr>
